@@ -1,46 +1,7 @@
 ---
 title: Template Chapter 1
-description: This is a template chapter.
----
-
-## Ex 1.1
-
-```yaml
-type: NormalExercise
-lang: sql
-xp: 100
-skills: 1
-key: 38fcdd44a6
-```
-
-Do some data science.
-
-`@instructions`
+description: >-
+  This is a template chapter.
 
 
-`@hint`
 
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-`@sample_code`
-
-```{sql}
-
-```
-
-`@solution`
-
-```{python}
-
-```
-
-`@sct`
-
-```{sql}
-
-```
